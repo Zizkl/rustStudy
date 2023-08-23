@@ -1,0 +1,14 @@
+[package]
+name = "my_first_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+rusqlite = "0.23.1"
+#数据库依赖
+mysql = "20.0.0"
+#处理时间
+chrono = "0.4.19"
