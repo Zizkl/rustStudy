@@ -1,0 +1,2 @@
+# tustStudy
+my first rust
