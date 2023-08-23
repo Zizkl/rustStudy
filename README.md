@@ -1,2 +1,2 @@
-# tustStudy
+# rustStudy
 my first rust
